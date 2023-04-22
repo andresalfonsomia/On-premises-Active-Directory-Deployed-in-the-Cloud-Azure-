@@ -7,11 +7,11 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>Video Demonstrations in Parts 1, 2 & 3</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute Part 1](https://www.youtube.com)
+- ### [YouTube: Deploying Active Directory and Creating Users within Azure Computer Part 1](https://www.youtube.com/watch?v=eiQIHQCiHGg)
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute Part 2](https://www.youtube.com)
+- ### [YouTube: Building Intuition for DNS within Azure Computer Part 2](https://www.youtube.com/watch?v=Je2I3mGvo-M)
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute Part 3](https://www.youtube.com)
+- ### [YouTube: Network File Shares and Permissions within Azure Computer Part 3](https://www.youtube.com/watch?v=ZAdwYMLqt30)
 
 <h2>Environments Used</h2>
 
