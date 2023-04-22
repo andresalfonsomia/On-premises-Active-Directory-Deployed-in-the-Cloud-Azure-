@@ -13,15 +13,19 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 - ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute Part 3](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments Used</h2>
 
-- Microsoft Azure (Virtual Machines)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
-- Command Prompt
-
-<h2>Operating Systems Used </h2>
-
+- Microsoft Azure
 - Windows Server 2022
 - Windows 10 (21H2)
+
+<h2>Technologies Used</h2>
+
+- Azure Virtual Machines
+- Remote Desktop
+- Active Directory Domain Services
+
+<h2>Languages Used</h2>
+
+- PowerShell
+- Command Prompt
